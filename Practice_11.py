@@ -18,3 +18,4 @@ print(f"\nYou guessed right the number is {sc}")
 
 
 
+
